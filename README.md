@@ -1,9 +1,9 @@
-# Dive into Hydrology using Python 
+# Dive into hydrology using Python 
 
 ## Tools you'll need
 [Python]: http://www.python.org
 [IPython]: http://ipython.org
-[Jupyter Notebook]: http://ipython.org
+[Jupyter Notebook]: http://jupyter.org
 
 - [Python]
 - [IPython] and the [Jupyter Notebook]
@@ -24,13 +24,7 @@ You can install Python and all of the above packages through the [Anaconda Pytho
 * [A gallery of interesting Jupyter and IPython Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-and-IPython-Notebooks)
 * [Fabian Pedregosa's larger, automatic gallery](http://nb.bianp.net/sort/views/)
 
-## Other courses
-
-Here are some other free online courses I've seen recommended. (Machine Learning, Data Science, and related topics.)
-
-* Data science courses as IPython Notebooks:
-	* [Practical Data Science](http://radimrehurek.com/data_science_python/)
-	* [Learn Data Science (an entire self-directed course!)](http://learnds.com/)
+# Resources
 
 ## Learn Pandas well
 
