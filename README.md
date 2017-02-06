@@ -14,10 +14,10 @@
 - [R]
 - [IPython] and/or the [Jupyter Notebook]
 - Some scientific computing packages:
-	- NumPy
-    - Matplotlib
-	- pandas
-	- rpy2
+	- [NumPy]
+    - [matplotlib]
+	- [pandas]
+	- [rpy2]
 
 You can install Python and all of the above packages through the [Anaconda Python distribution](https://www.continuum.io/downloads). You can use Anaconda's package manager (called "conda") to easily install and update packages.
 
