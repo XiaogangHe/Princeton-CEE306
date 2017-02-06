@@ -26,6 +26,7 @@ We highly recommend installing [Anaconda](https://www.continuum.io/downloads) as
 
 ## Let's get started!
 To run the notebook, open your terminal and type:
+
 `jupyter notebook`
 
 # Resources
