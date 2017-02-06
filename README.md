@@ -19,14 +19,10 @@
 	- [pandas]: Python's data analysis tools
 	- [rpy2]: an interface between Python and R
 
-You can install Python and all of the above packages through the [Anaconda Python distribution](https://www.continuum.io/downloads). You can use Anaconda's package manager (called "conda") to easily install and update packages.
-
-## Let's get started!
-
-If you have Anaconda installed, then in your terminal window, type the following commands to install the above mentioned packages:
-- conda install R
-- conda install pandas
-- conda install rpy2
+You can install Python and all of the above packages through the [Anaconda Python distribution](https://www.continuum.io/downloads). You can use Anaconda's package manager (called "conda") to easily install and update packages. For example, open your terminal window and type the following commands to install the above mentioned packages:
+- `conda install R`
+- `conda install pandas`
+- `conda install rpy2`
 
 # Resources
 
