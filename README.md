@@ -23,6 +23,11 @@ You can install Python and all of the above packages through the [Anaconda Pytho
 
 ## Let's get started!
 
+If you have Anaconda installed, then in your terminal window, type the following commands to install the above mentioned packages:
+- conda install R
+- conda install pandas
+- conda install rpy2
+
 # Resources
 
 ## Learn IPython well
