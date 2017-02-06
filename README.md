@@ -2,15 +2,21 @@
 
 ## Tools you'll need
 [Python]: http://www.python.org
+[R]: https://www.r-project.org/
 [IPython]: http://ipython.org
 [Jupyter Notebook]: http://jupyter.org
+[NumPy]: http://www.numpy.org
+[matplotlib]: http://matplotlib.org
+[pandas]: http://pandas.pydata.org/index.html
+[rpy2]: https://rpy2.readthedocs.io/en/version_2.8.x/
 
 - [Python]
-- [IPython] and the [Jupyter Notebook]
+- [R]
+- [IPython] and/or the [Jupyter Notebook]
 - Some scientific computing packages:
-	- numpy
+	- NumPy
+    - Matplotlib
 	- pandas
-	- matplotlib 
 	- rpy2
 
 You can install Python and all of the above packages through the [Anaconda Python distribution](https://www.continuum.io/downloads). You can use Anaconda's package manager (called "conda") to easily install and update packages.
