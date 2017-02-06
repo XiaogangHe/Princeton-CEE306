@@ -14,10 +14,10 @@
 - [R]
 - [IPython] and/or the [Jupyter Notebook]
 - Some scientific computing packages:
-	- [NumPy] (for scientific computing)
-    - [matplotlib] (a Python 2D plotting library for data visulization)
-	- [pandas] (Python's data analysis tools)
-	- [rpy2] (an interface between Python and R)
+	- [NumPy]: for scientific computing
+    - [matplotlib]: a Python 2D plotting library for data visulization
+	- [pandas]: Python's data analysis tools
+	- [rpy2]: an interface between Python and R
 
 You can install Python and all of the above packages through the [Anaconda Python distribution](https://www.continuum.io/downloads). You can use Anaconda's package manager (called "conda") to easily install and update packages.
 
