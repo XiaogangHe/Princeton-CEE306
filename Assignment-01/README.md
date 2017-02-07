@@ -11,4 +11,4 @@ If you are a **Mac** user, simply type `R` in your terminal and use the followin
 - `install.packages("strucchange")`
 - `install.packages("ismev")`
 
-If you are a **Windows** user, you can install the above R packages through Python. Please refer to the notebook [install_r_packages.ipynb] (https://github.com/XiaogangHe/Princeton-CEE306/blob/master/Assignment-01/PyScripts/install_r_packages.ipynb)
+If you are a **Windows** user, you can install the above R packages through Python. Please refer to this [notebook] (https://github.com/XiaogangHe/Princeton-CEE306/blob/master/Assignment-01/PyScripts/install_r_packages.ipynb) for details.
