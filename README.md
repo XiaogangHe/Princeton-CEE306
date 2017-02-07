@@ -27,9 +27,11 @@ For **Mac** users, we highly recommend installing [Anaconda](https://www.continu
 For **Windows** users, you may need to install these packages separately :frowning:. 
 
 ## Let's get started!
-To run the notebook, open your terminal and type:
-
-`jupyter notebook`
+1. Download the GitHub repository
+⋅⋅1. Clone: `git clone git@github.com:XiaogangHe/Princeton-CEE306.git` 
+⋅⋅2. Download: Download the repository as a .zip file 
+2. Run the notebook, 
+..1. open your terminal and type: `jupyter notebook`
 
 # Resources
 
