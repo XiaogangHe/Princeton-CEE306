@@ -1,2 +1,4 @@
 *.swp
 *.ipynb_checkpoints
+*.gitignore
+*.pdf
