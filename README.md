@@ -28,10 +28,10 @@ For **Windows** users, you may need to install these packages separately :frowni
 
 ## Let's get started!
 1. Download the GitHub repository
-- Clone: `git clone git@github.com:XiaogangHe/Princeton-CEE306.git` 
-- Download: Download the repository as a .zip file 
+   - Clone: `git clone git@github.com:XiaogangHe/Princeton-CEE306.git` 
+   - Download: Download the repository as a .zip file 
 2. Run the notebook 
-- Open your terminal and type: `jupyter notebook`
+   - Open your terminal and type: `jupyter notebook`
 
 # Resources
 
