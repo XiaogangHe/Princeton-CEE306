@@ -19,7 +19,7 @@
 	- [pandas]: Python's data analysis tools
 	- [rpy2]: an interface between Python and R
 
-For **Mac** users, we highly recommend installing [Anaconda](https://www.continuum.io/downloads) as you can use its package manager (called "conda") to easily install and update packages. For example, open your terminal window and type the following commands to install the above mentioned packages:
+For **Mac** users, we highly recommend installing [Anaconda](https://www.continuum.io/downloads) as you can use its package manager (called "conda") to easily install and update packages :smile:. For example, open your terminal window and type the following commands to install the above mentioned packages:
 - `conda install R`
 - `conda install pandas`
 - `conda install rpy2`
