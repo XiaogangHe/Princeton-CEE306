@@ -24,7 +24,7 @@ For **Mac** users, we highly recommend installing [Anaconda](https://www.continu
 - `conda install pandas`
 - `conda install rpy2`
 
-For **Windows** users, you need to install these packages separately :frowning:. 
+For **Windows** users, you may need to install these packages separately :frowning:. 
 
 ## Let's get started!
 To run the notebook, open your terminal and type:
