@@ -14,15 +14,17 @@
 - [R]
 - [IPython] and/or the [Jupyter Notebook]
 - Some scientific computing packages:
-	- [NumPy]: for scientific computing
+	- [NumPy]: a general-purpose array-processing package 
     - [matplotlib]: a Python 2D plotting library for data visulization
 	- [pandas]: Python's data analysis tools
 	- [rpy2]: an interface between Python and R
 
-We highly recommend installing [Anaconda](https://www.continuum.io/downloads) as you can use its package manager (called "conda") to easily install and update packages. For example, open your terminal window and type the following commands to install the above mentioned packages:
+For **Mac** users, we highly recommend installing [Anaconda](https://www.continuum.io/downloads) as you can use its package manager (called "conda") to easily install and update packages. For example, open your terminal window and type the following commands to install the above mentioned packages:
 - `conda install R`
 - `conda install pandas`
 - `conda install rpy2`
+
+For **Windows** users, you need to install these packages separately. 
 
 ## Let's get started!
 To run the notebook, open your terminal and type:
