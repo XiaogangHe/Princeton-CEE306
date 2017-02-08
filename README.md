@@ -19,12 +19,13 @@
 	- [pandas]: Python's data analysis tools
 	- [rpy2]: an interface between Python and R
 
-For **Mac** users, we highly recommend installing [Anaconda](https://www.continuum.io/downloads) as you can use its package manager (called "conda") to easily install and update packages :smile:. For example, open your terminal window and type the following commands to install the above mentioned packages:
+For **Mac** users, we highly recommend installing [Anaconda](https://www.continuum.io/downloads) (**Python 2.7 version**) as you can use its package manager (called "conda") to easily install and update packages :smile:. For example, open your terminal window and type the following commands to install the above mentioned packages:
 - `conda install R`
 - `conda install pandas`
 - `conda install rpy2`
 
 For **Windows** users, you may need to install these packages separately :frowning:. 
+- To install rpy2, download the Windows Binaries for rpy2 [here] (http://www.lfd.uci.edu/~gohlke/pythonlibs/#rpy2) based on your computer architecture. Launch the Command Prompt and type `pip install SomePackage-1.0-py2.py3-none-any.whl` to install the downloaded .whl files. Please make sure that you have the latest version of pip. You can upgrade pip using `python -m pip install --upgrade pip`.
 
 ## Let's get started!
 1. Get the GitHub repository
