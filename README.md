@@ -25,11 +25,11 @@ For **Mac** users, we highly recommend installing [Anaconda](https://www.continu
 
 For **Windows** users, you may need to install these packages separately :frowning:. 
 - To install rpy2, download the Windows Binaries for rpy2 [here] (http://www.lfd.uci.edu/~gohlke/pythonlibs/#rpy2) based on your computer architecture. Launch the Command Prompt and type `pip install SomePackage-1.0-py2.py3-none-any.whl` to install the downloaded .whl files. Please make sure that you have the latest version of pip. You can upgrade pip using `python -m pip install --upgrade pip`.
-- Change Path for R. Go to "advanced and system setting" -> "environment variables"
-- In the user variable field add C:\Program Files\R\R-3.0.2\bin\x64 to the path
+- Change Path for R. Go to `advanced and system setting` -> `environment variables`
+- In the user variable field add `C:\Program Files\R\R-3.0.2\bin\x64` to the path
 - In the system variable field add three new variables: 
-    - Create a `R_HOME` system variable with a value similar to: C:\Program Files\R\R-3.2.0
-    - Create a `R_USER` system variable with your user name: C:\Users\"your user name"
+    - Create a `R_HOME` system variable with a value similar to `C:\Program Files\R\R-3.2.0`
+    - Create a `R_USER` system variable with your user name `C:\Users\"your user name`
     - Create a `R_LIBS_USER` system variable with a path to the folder where external R packages are/will be installed. You can find the path through the command `.libPaths()` in the `R` environment.
 
 ## Let's get started!
