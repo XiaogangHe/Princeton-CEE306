@@ -29,7 +29,7 @@ For **Windows** users, you may need to install these packages separately :frowni
 - In the user variable field, add `C:\Program Files\R\R-3.0.2\bin\x64` to the path
 - In the system variable field, add three new variables: 
     - Create a `R_HOME` system variable with a value similar to `C:\Program Files\R\R-3.2.0`
-    - Create a `R_USER` system variable with your user name `C:\Users\"your user name`
+    - Create a `R_USER` system variable with your user name `C:\Users\"your user name"`
     - Create a `R_LIBS_USER` system variable with a path to the folder where external R packages are/will be installed. You can find the path through the command `.libPaths()` in the `R` environment.
 
 ## Let's get started!
