@@ -10,6 +10,7 @@ If you are a **Mac** user, simply type `R` in your terminal and use the followin
 - `install.packages("Kendall")`
 - `install.packages("strucchange")`
 - `install.packages("ismev")`
+
 If it throws errors, you may need to update your X-Code and/or install gfortran compiler [here] (https://gcc.gnu.org/wiki/GFortranBinaries#MacOS).
 
 If you are a **Windows** user, you can install the above R packages through Python. Please refer to this [notebook] (https://github.com/XiaogangHe/Princeton-CEE306/blob/master/Assignment-01/PyScripts/install_r_packages.ipynb) for details.
