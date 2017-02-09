@@ -21,7 +21,6 @@
 
 For **Mac** users, we highly recommend installing [Anaconda](https://www.continuum.io/downloads) (**Python 2.7 version**) as you can use its package manager (called "conda") to easily install and update packages :smile:. For example, open your terminal window and type the following commands to install the above mentioned packages:
 - `conda install R`
-- `conda install pandas`
 - `conda install rpy2`
 
 For **Windows** users, you may need to install these packages separately :frowning:. 
