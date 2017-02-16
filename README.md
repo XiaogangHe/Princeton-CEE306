@@ -47,26 +47,19 @@ For **Windows** users, you may need to install these packages separately :frowni
 * [Fabian Pedregosa's gallery](http://nb.bianp.net/sort/views/)
 
 ## Learn Pandas well
-
-If you're focusing on Python, you should get more familiar with Pandas.
-
 * **Essential**: [10 Minutes to Pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)
 * **Essential**: [Things in Pandas I Wish I'd Had Known Earlier](http://nbviewer.ipython.org/github/rasbt/python_reference/blob/master/tutorials/things_in_pandas.ipynb) (IPython Notebook)
 * [Useful Pandas Snippets](http://www.swegler.com/becky/blog/2014/08/06/useful-pandas-snippets/)
 * Other docs related to pandas:
-	* [Cookbook](http://pandas.pydata.org/pandas-docs/stable/cookbook.html)
-	* [Data Structures](http://pandas.pydata.org/pandas-docs/stable/dsintro.html), esp. [DataFrame](http://pandas.pydata.org/pandas-docs/stable/dsintro.html#dataframe) section
-	* [Reshaping by pivoting DataFrames](http://pandas.pydata.org/pandas-docs/version/0.15.0/reshaping.html)
-	* [Group By (split, apply, and combine DataFrames)](http://pandas.pydata.org/pandas-docs/stable/groupby.html)
-	* [Visualizing your DataFrames](http://pandas.pydata.org/pandas-docs/version/0.15.0/visualization.html)
+	* The official [cookbook](http://pandas.pydata.org/pandas-docs/stable/cookbook.html)
+	* [Data Structures](http://pandas.pydata.org/pandas-docs/stable/dsintro.html)
+	* [Group By: split-apply-combine DataFrames](http://pandas.pydata.org/pandas-docs/stable/groupby.html)
+	* [Visulization](http://pandas.pydata.org/pandas-docs/version/0.15.0/visualization.html)
 
 ## Cheat sheets
-
 Bookmark these cheat sheets:
-
-- [Matplotlib / Pandas / Python cheat sheets](https://drive.google.com/folderview?id=0ByIrJAE4KMTtaGhRcXkxNHhmY2M).
+- [Matplotlib/Pandas/Python cheat sheets](https://drive.google.com/folderview?id=0ByIrJAE4KMTtaGhRcXkxNHhmY2M).
 
 ## Questions, answers, chats
-
 Ask questions related to Python on StackExchange [stats.stackexchange.com – _python_.](http://stats.stackexchange.com/questions/tagged/python) 
 
